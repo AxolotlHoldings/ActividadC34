@@ -1,1 +1,1 @@
-# ActividadC34
+Plantilla del código C34
